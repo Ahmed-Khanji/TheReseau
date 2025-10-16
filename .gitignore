@@ -26,6 +26,70 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Django migrations
+**/migrations/
+!**/migrations/__init__.py
+
+# Environment variables
+.env
+*.env
+settings_local.py
+
+# SQLite (if used temporarily)
+*.sqlite3
+
+# Media / static (if using local storage)
+media/
+staticfiles/
+static/
+
+# Pytest cache
+.pytest_cache/
+coverage/
+htmlcov/
+
+# Node modules
+frontend/node_modules/
+
+# Build output
+frontend/build/
+frontend/dist/
+frontend/.vite/
+
+# React environment files
+frontend/.env
+frontend/.env.*
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+npm-debug.log*
+yarn-debug.log*
+
+# === PostgreSQL dumps (if any) ===
+*.dump
+*.sql
+
+# === Other caches ===
+*.log
+*.pot
+*.mo
+*.pyc
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
