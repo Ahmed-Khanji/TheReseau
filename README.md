@@ -1,6 +1,6 @@
-# The Reseau
+# TheReseau
 
-**The Reseau** is a web platform and soon-to-be mobile app that helps users discover new local businesses, restaurants, service providers, and community spots through **interactive maps, gamification, and real-world engagement**. Unlike traditional review-focused platforms (Google Maps, Yelp, TripAdvisor), The Reseau encourages people to **explore**, **visit**, and **support** small businesses and rewards them for doing so.
+**TheReseau** is a web platform and soon-to-be mobile app that helps users discover new local businesses, restaurants, service providers, and community spots through **interactive maps, gamification, and real-world engagement**. Unlike traditional review-focused platforms (Google Maps, Yelp, TripAdvisor), TheReseau encourages people to **explore**, **visit**, and **support** small businesses and rewards them for doing so.
 
 ---
 
